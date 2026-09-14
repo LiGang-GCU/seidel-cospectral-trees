@@ -1,0 +1,9 @@
+{
+ "n": 17,
+ "matrix": "DQ",
+ "n_trees": 48629,
+ "numeric_collision_groups": 0,
+ "exact_blind_pairs": 0,
+ "collision_classes": [],
+ "runtime_s": 13.1
+}

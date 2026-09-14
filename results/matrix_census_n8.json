@@ -1,0 +1,107 @@
+{
+ "n": 8,
+ "n_trees": 23,
+ "enum_s": 0.0,
+ "matrices": {
+  "A": {
+   "classes": 22,
+   "collision_classes": 1,
+   "blind_pairs": 1,
+   "max_class_size": 2
+  },
+  "L": {
+   "classes": 23,
+   "collision_classes": 0,
+   "blind_pairs": 0,
+   "max_class_size": 1
+  },
+  "Q": {
+   "classes": 23,
+   "collision_classes": 0,
+   "blind_pairs": 0,
+   "max_class_size": 1
+  },
+  "S": {
+   "classes": 23,
+   "collision_classes": 0,
+   "blind_pairs": 0,
+   "max_class_size": 1
+  },
+  "Aa25": {
+   "classes": 23,
+   "collision_classes": 0,
+   "blind_pairs": 0,
+   "max_class_size": 1
+  },
+  "Aa67": {
+   "classes": 23,
+   "collision_classes": 0,
+   "blind_pairs": 0,
+   "max_class_size": 1
+  },
+  "N": {
+   "classes": 23,
+   "collision_classes": 0,
+   "blind_pairs": 0,
+   "max_class_size": 1
+  },
+  "DIST": {
+   "classes": 23,
+   "collision_classes": 0,
+   "blind_pairs": 0,
+   "max_class_size": 1
+  },
+  "DL": {
+   "classes": 23,
+   "collision_classes": 0,
+   "blind_pairs": 0,
+   "max_class_size": 1
+  },
+  "DQ": {
+   "classes": 23,
+   "collision_classes": 0,
+   "blind_pairs": 0,
+   "max_class_size": 1
+  }
+ },
+ "runtime_to_exact_s": 0.0,
+ "vs_L": {
+  "A": {
+   "L_blind_resolved_by_M": 0,
+   "M_blind_resolved_by_L": 1
+  },
+  "Q": {
+   "L_blind_resolved_by_M": 0,
+   "M_blind_resolved_by_L": 0
+  },
+  "S": {
+   "L_blind_resolved_by_M": 0,
+   "M_blind_resolved_by_L": 0
+  },
+  "Aa25": {
+   "L_blind_resolved_by_M": 0,
+   "M_blind_resolved_by_L": 0
+  },
+  "Aa67": {
+   "L_blind_resolved_by_M": 0,
+   "M_blind_resolved_by_L": 0
+  },
+  "N": {
+   "L_blind_resolved_by_M": 0,
+   "M_blind_resolved_by_L": 0
+  },
+  "DIST": {
+   "L_blind_resolved_by_M": 0,
+   "M_blind_resolved_by_L": 0
+  },
+  "DL": {
+   "L_blind_resolved_by_M": 0,
+   "M_blind_resolved_by_L": 0
+  },
+  "DQ": {
+   "L_blind_resolved_by_M": 0,
+   "M_blind_resolved_by_L": 0
+  }
+ },
+ "runtime_s": 0.0
+}

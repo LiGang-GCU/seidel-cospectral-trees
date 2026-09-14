@@ -1,0 +1,107 @@
+{
+ "n": 18,
+ "n_trees": 123867,
+ "enum_s": 4.8,
+ "matrices": {
+  "A": {
+   "classes": 106135,
+   "collision_classes": 14615,
+   "blind_pairs": 21714,
+   "max_class_size": 8
+  },
+  "L": {
+   "classes": 123752,
+   "collision_classes": 115,
+   "blind_pairs": 115,
+   "max_class_size": 2
+  },
+  "Q": {
+   "classes": 123752,
+   "collision_classes": 115,
+   "blind_pairs": 115,
+   "max_class_size": 2
+  },
+  "S": {
+   "classes": 123533,
+   "collision_classes": 334,
+   "blind_pairs": 334,
+   "max_class_size": 2
+  },
+  "Aa25": {
+   "classes": 123848,
+   "collision_classes": 19,
+   "blind_pairs": 19,
+   "max_class_size": 2
+  },
+  "Aa67": {
+   "classes": 123848,
+   "collision_classes": 19,
+   "blind_pairs": 19,
+   "max_class_size": 2
+  },
+  "N": {
+   "classes": 122974,
+   "collision_classes": 883,
+   "blind_pairs": 903,
+   "max_class_size": 3
+  },
+  "DIST": {
+   "classes": 123865,
+   "collision_classes": 2,
+   "blind_pairs": 2,
+   "max_class_size": 2
+  },
+  "DL": {
+   "classes": 123867,
+   "collision_classes": 0,
+   "blind_pairs": 0,
+   "max_class_size": 1
+  },
+  "DQ": {
+   "classes": 123867,
+   "collision_classes": 0,
+   "blind_pairs": 0,
+   "max_class_size": 1
+  }
+ },
+ "runtime_to_exact_s": 539.4,
+ "vs_L": {
+  "A": {
+   "L_blind_resolved_by_M": 96,
+   "M_blind_resolved_by_L": 21695
+  },
+  "Q": {
+   "L_blind_resolved_by_M": 0,
+   "M_blind_resolved_by_L": 0
+  },
+  "S": {
+   "L_blind_resolved_by_M": 113,
+   "M_blind_resolved_by_L": 332
+  },
+  "Aa25": {
+   "L_blind_resolved_by_M": 96,
+   "M_blind_resolved_by_L": 0
+  },
+  "Aa67": {
+   "L_blind_resolved_by_M": 96,
+   "M_blind_resolved_by_L": 0
+  },
+  "N": {
+   "L_blind_resolved_by_M": 96,
+   "M_blind_resolved_by_L": 884
+  },
+  "DIST": {
+   "L_blind_resolved_by_M": 113,
+   "M_blind_resolved_by_L": 0
+  },
+  "DL": {
+   "L_blind_resolved_by_M": 115,
+   "M_blind_resolved_by_L": 0
+  },
+  "DQ": {
+   "L_blind_resolved_by_M": 115,
+   "M_blind_resolved_by_L": 0
+  }
+ },
+ "runtime_s": 561.1
+}

@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 凭据 / 私有连接脚本 —— 永不提交
+srv*.py
+ssh_probe.py
+deepseek_review.py
+daimon_runtime.py
+.env
+*.key
+*credentials*
+
+# 论文与投稿材料 —— 不属于本仓库
+paper/
+submission/
+*.tex
+*.pdf
+*.bbl
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.out
+*.blg
+PAPER_PLAN.md
+NARRATIVE_REPORT.md
+*_AUDIT.md
+*_AUDIT.json
+review-stage/
+.aris/
+
+# 系统
+.DS_Store
+Thumbs.db

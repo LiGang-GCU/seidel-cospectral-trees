@@ -1,0 +1,57 @@
+{
+ "n": 13,
+ "n_trees": 1301,
+ "protocol": "exact-modular filter + exact integer verdict (no floating-point eigenvalues); false merges removed by exact refinement, false splits impossible by construction",
+ "primes": [
+  9999991
+ ],
+ "hot_keys": {
+  "WALK": 2,
+  "SSPEC": 2,
+  "GEN": 2
+ },
+ "n_exact_fingerprints": 12,
+ "collision_classes": {
+  "WALK": 2,
+  "SSPEC": 2,
+  "GEN": 2
+ },
+ "partition_equality": {
+  "WALK==SSPEC": true,
+  "WALK==GEN": true,
+  "SSPEC==GEN": true
+ },
+ "classes": {
+  "WALK": [
+   [
+    "LpCP?D??G?_@O?",
+    "LpCQ?C@?GC?@O?"
+   ],
+   [
+    "LpCP@@??G?_@O?",
+    "LpCQ?C@?GC?OO?"
+   ]
+  ],
+  "SSPEC": [
+   [
+    "LpCP?D??G?_@O?",
+    "LpCQ?C@?GC?@O?"
+   ],
+   [
+    "LpCP@@??G?_@O?",
+    "LpCQ?C@?GC?OO?"
+   ]
+  ],
+  "GEN": [
+   [
+    "LpCP?D??G?_@O?",
+    "LpCQ?C@?GC?@O?"
+   ],
+   [
+    "LpCP@@??G?_@O?",
+    "LpCQ?C@?GC?OO?"
+   ]
+  ]
+ },
+ "runtime_s": 0.8
+}

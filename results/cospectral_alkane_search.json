@@ -1,0 +1,253 @@
+{
+ "summary": [
+  {
+   "n": 4,
+   "n_alkane": 2,
+   "cospectral_classes": 0,
+   "cospectral_pairs": 0
+  },
+  {
+   "n": 5,
+   "n_alkane": 3,
+   "cospectral_classes": 0,
+   "cospectral_pairs": 0
+  },
+  {
+   "n": 6,
+   "n_alkane": 5,
+   "cospectral_classes": 0,
+   "cospectral_pairs": 0
+  },
+  {
+   "n": 7,
+   "n_alkane": 9,
+   "cospectral_classes": 0,
+   "cospectral_pairs": 0
+  },
+  {
+   "n": 8,
+   "n_alkane": 18,
+   "cospectral_classes": 0,
+   "cospectral_pairs": 0
+  },
+  {
+   "n": 9,
+   "n_alkane": 35,
+   "cospectral_classes": 5,
+   "cospectral_pairs": 5
+  },
+  {
+   "n": 10,
+   "n_alkane": 75,
+   "cospectral_classes": 2,
+   "cospectral_pairs": 2
+  },
+  {
+   "n": 11,
+   "n_alkane": 159,
+   "cospectral_classes": 21,
+   "cospectral_pairs": 25
+  },
+  {
+   "n": 12,
+   "n_alkane": 355,
+   "cospectral_classes": 43,
+   "cospectral_pairs": 53
+  },
+  {
+   "n": 13,
+   "n_alkane": 802,
+   "cospectral_classes": 124,
+   "cospectral_pairs": 176
+  },
+  {
+   "n": 14,
+   "n_alkane": 1858,
+   "cospectral_classes": 254,
+   "cospectral_pairs": 304
+  }
+ ],
+ "first_n": 9,
+ "classes": [
+  [
+   {
+    "g6": "HpGa?C@",
+    "degseq": [
+     1,
+     1,
+     1,
+     1,
+     2,
+     2,
+     2,
+     2,
+     4
+    ],
+    "diameter": 6,
+    "wiener": 104.0,
+    "hosoya": 37
+   },
+   {
+    "g6": "HpH?GH?",
+    "degseq": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     3,
+     3,
+     3
+    ],
+    "diameter": 5,
+    "wiener": 96.0,
+    "hosoya": 37
+   }
+  ],
+  [
+   {
+    "g6": "HpIA?C@",
+    "degseq": [
+     1,
+     1,
+     1,
+     1,
+     2,
+     2,
+     2,
+     3,
+     3
+    ],
+    "diameter": 6,
+    "wiener": 102.0,
+    "hosoya": 44
+   },
+   {
+    "g6": "HpH?I?@",
+    "degseq": [
+     1,
+     1,
+     1,
+     1,
+     2,
+     2,
+     2,
+     3,
+     3
+    ],
+    "diameter": 5,
+    "wiener": 98.0,
+    "hosoya": 44
+   }
+  ],
+  [
+   {
+    "g6": "HpaA?C@",
+    "degseq": [
+     1,
+     1,
+     1,
+     1,
+     2,
+     2,
+     2,
+     2,
+     4
+    ],
+    "diameter": 6,
+    "wiener": 98.0,
+    "hosoya": 41
+   },
+   {
+    "g6": "Hp`?GH?",
+    "degseq": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     3,
+     3,
+     3
+    ],
+    "diameter": 5,
+    "wiener": 92.0,
+    "hosoya": 41
+   }
+  ],
+  [
+   {
+    "g6": "HpOGI@?",
+    "degseq": [
+     1,
+     1,
+     1,
+     1,
+     2,
+     2,
+     2,
+     2,
+     4
+    ],
+    "diameter": 6,
+    "wiener": 96.0,
+    "hosoya": 39
+   },
+   {
+    "g6": "HsOGQ?@",
+    "degseq": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     3,
+     3,
+     3
+    ],
+    "diameter": 4,
+    "wiener": 90.0,
+    "hosoya": 39
+   }
+  ],
+  [
+   {
+    "g6": "HpOGQ@?",
+    "degseq": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     2,
+     3,
+     4
+    ],
+    "diameter": 5,
+    "wiener": 90.0,
+    "hosoya": 36
+   },
+   {
+    "g6": "Hs`?I?@",
+    "degseq": [
+     1,
+     1,
+     1,
+     1,
+     1,
+     2,
+     2,
+     3,
+     4
+    ],
+    "diameter": 4,
+    "wiener": 88.0,
+    "hosoya": 36
+   }
+  ]
+ ]
+}

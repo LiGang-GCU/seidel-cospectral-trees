@@ -1,0 +1,210 @@
+{
+ "n": 9,
+ "n_alkane_skeletons": 35,
+ "cospectral_classes": 5,
+ "cospectral_pairs": 5,
+ "arithmetic": "exact integer characteristic polynomials (Faddeev-LeVerrier) and big-integer walk counts; no floating point",
+ "note": "Cospectral members share every adjacency-spectrum invariant: characteristic and matching polynomial, Hosoya index, closed-walk moments tr(A^k). They do NOT in general share total walk counts 1^T A^k 1, which depend on the main eigenvalue weights as well. The walks_equal field records this per class.",
+ "classes": [
+  {
+   "class": 1,
+   "members_g6": [
+    "HpGa?C@",
+    "HpH?GH?"
+   ],
+   "wiener": [
+    104,
+    96
+   ],
+   "hosoya": 37,
+   "walk_counts": [
+    [
+     "9",
+     "16",
+     "36",
+     "68",
+     "154",
+     "296",
+     "674",
+     "1304",
+     "2980",
+     "5784"
+    ],
+    [
+     "9",
+     "16",
+     "36",
+     "72",
+     "158",
+     "324",
+     "702",
+     "1456",
+     "3132",
+     "6536"
+    ]
+   ],
+   "walks_equal": false,
+   "wiener_separates": true
+  },
+  {
+   "class": 2,
+   "members_g6": [
+    "HpIA?C@",
+    "HpH?I?@"
+   ],
+   "wiener": [
+    102,
+    98
+   ],
+   "hosoya": 44,
+   "walk_counts": [
+    [
+     "9",
+     "16",
+     "34",
+     "68",
+     "142",
+     "292",
+     "608",
+     "1260",
+     "2624",
+     "5452"
+    ],
+    [
+     "9",
+     "16",
+     "34",
+     "68",
+     "146",
+     "296",
+     "632",
+     "1288",
+     "2740",
+     "5600"
+    ]
+   ],
+   "walks_equal": false,
+   "wiener_separates": true
+  },
+  {
+   "class": 3,
+   "members_g6": [
+    "HpOGI@?",
+    "HsOGQ?@"
+   ],
+   "wiener": [
+    96,
+    90
+   ],
+   "hosoya": 39,
+   "walk_counts": [
+    [
+     "9",
+     "16",
+     "36",
+     "72",
+     "166",
+     "336",
+     "780",
+     "1584",
+     "3684",
+     "7488"
+    ],
+    [
+     "9",
+     "16",
+     "36",
+     "76",
+     "170",
+     "360",
+     "804",
+     "1704",
+     "3804",
+     "8064"
+    ]
+   ],
+   "walks_equal": false,
+   "wiener_separates": true
+  },
+  {
+   "class": 4,
+   "members_g6": [
+    "HpOGQ@?",
+    "Hs`?I?@"
+   ],
+   "wiener": [
+    90,
+    88
+   ],
+   "hosoya": 36,
+   "walk_counts": [
+    [
+     "9",
+     "16",
+     "38",
+     "80",
+     "184",
+     "400",
+     "912",
+     "2000",
+     "4548",
+     "10000"
+    ],
+    [
+     "9",
+     "16",
+     "38",
+     "80",
+     "188",
+     "400",
+     "936",
+     "2000",
+     "4672",
+     "10000"
+    ]
+   ],
+   "walks_equal": false,
+   "wiener_separates": true
+  },
+  {
+   "class": 5,
+   "members_g6": [
+    "HpaA?C@",
+    "Hp`?GH?"
+   ],
+   "wiener": [
+    98,
+    92
+   ],
+   "hosoya": 41,
+   "walk_counts": [
+    [
+     "9",
+     "16",
+     "36",
+     "72",
+     "162",
+     "332",
+     "748",
+     "1544",
+     "3482",
+     "7208"
+    ],
+    [
+     "9",
+     "16",
+     "36",
+     "76",
+     "166",
+     "356",
+     "776",
+     "1668",
+     "3634",
+     "7816"
+    ]
+   ],
+   "walks_equal": false,
+   "wiener_separates": true
+  }
+ ]
+}

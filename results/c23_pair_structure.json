@@ -1,0 +1,40 @@
+{
+ "note": "C23 pair: identical walks all orders, identical main spectrum; Wiener 1060 vs 1036, Hosoya differs -> walk descriptors provably insufficient for QSPR on C23H48",
+ "members": {
+  "A1": {
+   "g6": "VpC_K?@_A??@?@??_?_?@?A???G?OA?????@???G???_",
+   "wiener": 1060.0,
+   "hosoya": 26112
+  },
+  "A2": {
+   "g6": "VpCc?D??G?_@?C?G??I????C??G??G??O??O???I????",
+   "wiener": 1036.0,
+   "hosoya": 24548
+  }
+ },
+ "walk_tuple_first24": [
+  "23",
+  "44",
+  "104",
+  "248",
+  "614",
+  "1508",
+  "3788",
+  "9380",
+  "23672",
+  "58772",
+  "148556",
+  "369164",
+  "933644",
+  "2320868",
+  "5870828",
+  "14595500",
+  "36923204",
+  "91798868",
+  "232235804",
+  "577396028",
+  "1460729540",
+  "3631757636",
+  "9187860620"
+ ]
+}

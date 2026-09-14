@@ -1,0 +1,104 @@
+{
+ "16": {
+  "n": 16,
+  "n_trees": 19320,
+  "classes": {
+   "WALK": {
+    "n_classes": 19271,
+    "collision_classes": 49,
+    "blind_pairs": 49
+   },
+   "ASPEC": {
+    "n_classes": 16479,
+    "collision_classes": 2405,
+    "blind_pairs": 3345
+   },
+   "SSPEC": {
+    "n_classes": 19271,
+    "collision_classes": 49,
+    "blind_pairs": 49
+   },
+   "GEN": {
+    "n_classes": 19271,
+    "collision_classes": 49,
+    "blind_pairs": 49
+   }
+  },
+  "partition_equality": {
+   "WALK==ASPEC": false,
+   "WALK==SSPEC": true,
+   "WALK==GEN": true,
+   "ASPEC==SSPEC": false,
+   "ASPEC==GEN": false,
+   "SSPEC==GEN": true
+  }
+ },
+ "17": {
+  "n": 17,
+  "n_trees": 48629,
+  "classes": {
+   "WALK": {
+    "n_classes": 48500,
+    "collision_classes": 129,
+    "blind_pairs": 129
+   },
+   "ASPEC": {
+    "n_classes": 40313,
+    "collision_classes": 6628,
+    "blind_pairs": 10537
+   },
+   "SSPEC": {
+    "n_classes": 48500,
+    "collision_classes": 129,
+    "blind_pairs": 129
+   },
+   "GEN": {
+    "n_classes": 48500,
+    "collision_classes": 129,
+    "blind_pairs": 129
+   }
+  },
+  "partition_equality": {
+   "WALK==ASPEC": false,
+   "WALK==SSPEC": true,
+   "WALK==GEN": true,
+   "ASPEC==SSPEC": false,
+   "ASPEC==GEN": false,
+   "SSPEC==GEN": true
+  }
+ },
+ "18": {
+  "n": 18,
+  "n_trees": 123867,
+  "classes": {
+   "WALK": {
+    "n_classes": 123533,
+    "collision_classes": 334,
+    "blind_pairs": 334
+   },
+   "ASPEC": {
+    "n_classes": 106135,
+    "collision_classes": 14615,
+    "blind_pairs": 21714
+   },
+   "SSPEC": {
+    "n_classes": 123533,
+    "collision_classes": 334,
+    "blind_pairs": 334
+   },
+   "GEN": {
+    "n_classes": 123533,
+    "collision_classes": 334,
+    "blind_pairs": 334
+   }
+  },
+  "partition_equality": {
+   "WALK==ASPEC": false,
+   "WALK==SSPEC": true,
+   "WALK==GEN": true,
+   "ASPEC==SSPEC": false,
+   "ASPEC==GEN": false,
+   "SSPEC==GEN": true
+  }
+ }
+}

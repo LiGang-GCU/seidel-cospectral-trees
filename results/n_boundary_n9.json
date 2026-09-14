@@ -1,0 +1,13 @@
+{
+ "n": 9,
+ "n_trees": 47,
+ "numeric_collision_groups": 1,
+ "exact_blind_pairs": 1,
+ "collision_classes": [
+  [
+   "HpH?I@?",
+   "HpOGOP?"
+  ]
+ ],
+ "runtime_s": 0.0
+}

@@ -1,0 +1,6 @@
+n=6: connected=112 blind pairs {'A': 1, 'L': 2, 'S': 450, 'GEN': 0}
+   GEN pairs=0, S pairs=450, GEN<=S: True, S<=GEN: False
+   A pairs=1, A<=S: False, GEN<=A: True
+n=7: connected=853 blind pairs {'A': 33, 'L': 65, 'S': 8029, 'GEN': 16}
+   GEN pairs=16, S pairs=8029, GEN<=S: True, S<=GEN: False
+   A pairs=33, A<=S: False, GEN<=A: True

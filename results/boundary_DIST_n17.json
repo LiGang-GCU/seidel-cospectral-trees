@@ -1,0 +1,14 @@
+{
+ "n": 17,
+ "matrix": "DIST",
+ "n_trees": 48629,
+ "numeric_collision_groups": 1,
+ "exact_blind_pairs": 1,
+ "collision_classes": [
+  [
+   "PpCG_C_O??_@?@?@G???@??C",
+   "PpCG_D??G?_@?A?GG???@??C"
+  ]
+ ],
+ "runtime_s": 12.6
+}

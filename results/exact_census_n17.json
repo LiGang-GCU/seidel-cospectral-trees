@@ -1,0 +1,10 @@
+{
+ "n": 17,
+ "n_trees": 48629,
+ "walk_classes": 129,
+ "sspec_classes": 129,
+ "gen_classes": 129,
+ "aspec_classes": 6628,
+ "sspec_eq_gen": true,
+ "runtime_s": 578.8
+}

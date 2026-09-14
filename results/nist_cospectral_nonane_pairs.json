@@ -1,0 +1,151 @@
+{
+ "note": "NIST WebBook phase-change data for four of the five cospectral alkane-skeleton pairs (all C9H20 nonanes); all five pairs now have NIST-evaluated data: pair 5 uses TRC-evaluated single measurements (no AVG entry exists), consistent with the single-measurement entries of pairs 2 and 4. Within each pair the adjacency spectrum is identical, hence so is every descriptor determined by the eigenvalues alone: the characteristic and matching polynomials, the closed-walk counts tr(A^k), and the Hosoya index Z. This does NOT extend to the total walk counts W_k = 1^T A^k 1, which depend in addition on the main-eigenvalue weights; in fact all five cospectral nonane classes have different total walk counts, diverging at k=3 or k=4 (see results/cospectral_nonanes_exact.json). Boiling points nevertheless differ by up to ~6 K.",
+ "retrieved": "2026-09-08, NIST Chemistry WebBook (SRD 69), phase change data pages; pair 5 and bp-range endpoints re-verified 2026-09-12",
+ "pairs": [
+  {
+   "class": 1,
+   "hosoya_Z": 37,
+   "members": [
+    {
+     "name": "2,2-dimethylheptane",
+     "cas": "1071-26-7",
+     "g6": "HpGa?C@",
+     "wiener": 104,
+     "tboil_K": 405.0,
+     "tboil_unc_K": 3.0,
+     "tboil_note": "AVG of 11 values",
+     "dvapH_kJmol": 42.3
+    },
+    {
+     "name": "2,3,5-trimethylhexane",
+     "cas": "1069-53-0",
+     "g6": "HpH?GH?",
+     "wiener": 96,
+     "tboil_K": 404.0,
+     "tboil_unc_K": 2.0,
+     "tboil_note": "AVG of 9 values",
+     "dvapH_kJmol": 41.45
+    }
+   ],
+   "delta_bp_K": 1.0,
+   "bp_significantly_different": false
+  },
+  {
+   "class": 2,
+   "hosoya_Z": 44,
+   "members": [
+    {
+     "name": "2,3-dimethylheptane",
+     "cas": "3074-71-3",
+     "g6": "HpIA?C@",
+     "wiener": 102,
+     "tboil_K": 413.0,
+     "tboil_unc_K": 2.0,
+     "tboil_note": "AVG of 7 values",
+     "dvapH_kJmol": 43.6
+    },
+    {
+     "name": "4-ethyl-2-methylhexane",
+     "cas": "3074-75-7",
+     "g6": "HpH?I?@",
+     "wiener": 98,
+     "tboil_K": 406.95,
+     "tboil_unc_K": 0.5,
+     "tboil_note": "Fenske et al. 1947, TRC unc 0.5 K",
+     "dvapH_kJmol": 42.9
+    }
+   ],
+   "delta_bp_K": 6.05,
+   "bp_significantly_different": true
+  },
+  {
+   "class": 3,
+   "hosoya_Z": 41,
+   "members": [
+    {
+     "name": "3,3-dimethylheptane",
+     "cas": "4032-86-4",
+     "g6": "HpaA?C@",
+     "wiener": 98,
+     "tboil_K": 410.0,
+     "tboil_unc_K": 1.0,
+     "tboil_note": "AVG of 8 values",
+     "dvapH_kJmol": 42.6
+    },
+    {
+     "name": "2,3,4-trimethylhexane",
+     "cas": "921-47-1",
+     "g6": "Hp`?GH?",
+     "wiener": 92,
+     "tboil_K": 412.0,
+     "tboil_unc_K": 1.0,
+     "tboil_note": "AVG of 6 values",
+     "dvapH_kJmol": 42.7
+    }
+   ],
+   "delta_bp_K": 2.0,
+   "bp_significantly_different": false
+  },
+  {
+   "class": 4,
+   "hosoya_Z": 39,
+   "members": [
+    {
+     "name": "4,4-dimethylheptane",
+     "cas": "1068-19-5",
+     "g6": "HpOGI@?",
+     "wiener": 96,
+     "tboil_K": 408.35,
+     "tboil_unc_K": 0.5,
+     "tboil_note": "Fenske et al. 1947; values 408.4/407.5/408.35",
+     "dvapH_kJmol": 42.2
+    },
+    {
+     "name": "3-ethyl-2,4-dimethylpentane",
+     "cas": "1068-87-7",
+     "g6": "HsOGQ?@",
+     "wiener": 90,
+     "tboil_K": 409.81,
+     "tboil_unc_K": 0.06,
+     "tboil_note": "API RP6 1954; other values 409.15/409.75/409.86",
+     "dvapH_kJmol": 42.3
+    }
+   ],
+   "delta_bp_K": 1.46,
+   "bp_significantly_different": true
+  },
+  {
+   "class": 5,
+   "hosoya_Z": 36,
+   "members": [
+    {
+     "name": "2,3,3-trimethylhexane",
+     "cas": "16747-28-7",
+     "g6": "HpOGQ@?",
+     "wiener": 90,
+     "tboil_K": 409.95,
+     "tboil_unc_K": 0.4,
+     "tboil_note": "Buck, Elsner, et al. 1948, TRC unc 0.4 K; other TRC values 409.45+-0.5, 410.75+-1",
+     "dvapH_kJmol": 42.1
+    },
+    {
+     "name": "3-ethyl-2,2-dimethylpentane",
+     "cas": "16747-32-3",
+     "g6": "Hs`?I?@",
+     "wiener": 88,
+     "tboil_K": 406.98,
+     "tboil_unc_K": 0.1,
+     "tboil_note": "Howard, Mears, et al. 1947, TRC unc 0.1 K; other TRC values 406.96+-0.25, 406.75+-0.5",
+     "dvapH_kJmol": 41.7
+    }
+   ],
+   "delta_bp_K": 2.97,
+   "bp_significantly_different": true
+  }
+ ],
+ "context": {
+  "nonane_bp_range_K": "395.4+-0.7 (2,2,4,4-tetramethylpentane, CAS 1070-87-7, AVG of 7) to 423.8+-0.3 (n-nonane, CAS 111-84-2, AVG of 44/51), spread 28.4 K",
+  "interpretation": "Pair 2 shows a ~6 K boiling-point difference that no eigenvalue-determined descriptor of the carbon skeleton can capture, since both skeletons share the identical characteristic polynomial; pairs 1/3/4 differ by 1-2 K. Note that the total walk counts are not eigenvalue-determined and do separate these pairs.",
+  "open_item_bp_range_disagreement": "RESOLVED 2026-09-12: manuscript figures re-verified directly against NIST SRD 69 phase-change pages (2,2,4,4-TMP Tboil=395.4+-0.7 K AVG of 7; n-nonane Tboil=423.8+-0.3 K AVG of 44/51). The earlier alternative figures in this file (390.4 / 424.1) were erroneous and are withdrawn."
+ }
+}

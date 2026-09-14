@@ -1,0 +1,6488 @@
+{
+ "17": [
+  {
+   "n": 17,
+   "class": 0,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    12,
+    13
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 1,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    12,
+    13
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 2,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    12,
+    13
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 3,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 4,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 5,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 6,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 7,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 8,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 9,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 10,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 11,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 12,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 13,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 14,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 15,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 16,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 17,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 18,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 19,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 20,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    12
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 21,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 22,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 23,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 24,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 25,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 26,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 27,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 28,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 29,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 30,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 31,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 32,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 33,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 34,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 35,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 36,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 37,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 38,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 39,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 40,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 41,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 42,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 43,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 44,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 45,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 46,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 47,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 48,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 49,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 50,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 51,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 52,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 53,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 54,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 55,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 56,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 57,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 58,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 59,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 60,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 61,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 62,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 63,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 64,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 65,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 66,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 67,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 68,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 69,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 70,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 71,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 72,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 73,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 74,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 75,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 76,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 77,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 78,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 79,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 80,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 81,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 82,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 83,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 84,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 85,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 86,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 87,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 88,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 89,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 90,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 91,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 92,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 93,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 94,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 95,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 96,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 97,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 98,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 99,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 100,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 101,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 102,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 103,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 104,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 105,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 106,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 107,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 108,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 109,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 110,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 111,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 112,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 113,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 114,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 115,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 116,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 117,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 118,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 119,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 120,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 121,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 122,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 123,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 124,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 125,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 126,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 127,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 17,
+   "class": 128,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    7,
+    7
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  }
+ ],
+ "18": [
+  {
+   "n": 18,
+   "class": 0,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    13,
+    13
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 1,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    13,
+    14
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 2,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    14,
+    14
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 3,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    12,
+    13
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 4,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    12,
+    13
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 5,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    12,
+    13
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 6,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    12,
+    13
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 7,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    12,
+    13
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 8,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    12,
+    13
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 9,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    12,
+    13
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 10,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    12,
+    13
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 11,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 12,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 13,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 14,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 15,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    12
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 16,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 17,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 18,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 19,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    12
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 20,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 21,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    12,
+    12
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 22,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 23,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 24,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 25,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 26,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 27,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 28,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 29,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    12
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 30,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    12
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 31,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 32,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 33,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 34,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 35,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 36,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 37,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 38,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 39,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 40,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 41,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 42,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 43,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 44,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 45,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    12,
+    12
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 46,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    12
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 47,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 48,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 49,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 50,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 51,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 52,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 53,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 54,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 55,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 56,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    12
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 57,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 58,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 59,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 60,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 61,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 62,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 63,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 64,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    12
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 65,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    12
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 66,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    12
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 67,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 68,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 69,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 70,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 71,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 72,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 73,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 74,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 75,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 76,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 77,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 78,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 79,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 80,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 81,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 82,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 83,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 84,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 85,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 86,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 87,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    11,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 88,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 89,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 90,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    11
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 91,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 92,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 93,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 94,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 95,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 96,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 97,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 98,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 99,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 100,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 101,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 102,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 103,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 104,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 105,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 106,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 107,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 108,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 109,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 110,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 111,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 112,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 113,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 114,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 115,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 116,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 117,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 118,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 119,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 120,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 121,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 122,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 123,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 124,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 125,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 126,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 127,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 128,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 129,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 130,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 131,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 132,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 133,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 134,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 135,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 136,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 137,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 138,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 139,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 140,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 141,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 142,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 143,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 144,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 145,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 146,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 147,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 148,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 149,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 150,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 151,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 152,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 153,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 154,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 155,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 156,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 157,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 158,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 159,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 160,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 161,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 162,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 163,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 164,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 165,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 166,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 167,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 168,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    10,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 169,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 170,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 171,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 172,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 173,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 174,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 175,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 176,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 177,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 178,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 179,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 180,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 181,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 182,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 183,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 184,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 185,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 186,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 187,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 188,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 189,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 190,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 191,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 192,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 193,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 194,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 195,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 196,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 197,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 198,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 199,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 200,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 201,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    9,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 202,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 203,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 204,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 205,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 206,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 207,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 208,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 209,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 210,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 211,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    10
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 212,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 213,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 214,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 215,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 216,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 217,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 218,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 219,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 220,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 221,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 222,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 223,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 224,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 225,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 226,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 227,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 228,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 229,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 230,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 231,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 232,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 233,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 234,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 235,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 236,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 237,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 238,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 239,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 240,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 241,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 242,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 243,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 244,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 245,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 246,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 247,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 248,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 249,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 250,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 251,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 252,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 253,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 254,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 255,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 256,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 257,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 258,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 259,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 260,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 261,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 262,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 263,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 264,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 265,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 266,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 267,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    9
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 268,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 269,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 270,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 271,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 272,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 273,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 274,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 275,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 276,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 277,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 278,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 279,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 280,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 281,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 282,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 283,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 284,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 285,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 286,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 287,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 288,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 289,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 290,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 291,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 292,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 293,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 294,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 295,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 296,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 297,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 298,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 299,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 300,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 301,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 302,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 303,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 304,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 305,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 306,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 307,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 308,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 309,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 310,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 311,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 312,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 313,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 314,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 315,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 316,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 317,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 318,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 319,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 320,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 321,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 322,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 323,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 324,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 325,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 326,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 327,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 328,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 329,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 330,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 331,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 332,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  },
+  {
+   "n": 18,
+   "class": 333,
+   "size": 2,
+   "degseq_same": true,
+   "diameters": [
+    8,
+    8
+   ],
+   "switching_equiv": {
+    "0-1": false
+   },
+   "all_switching_equiv": false
+  }
+ ]
+}

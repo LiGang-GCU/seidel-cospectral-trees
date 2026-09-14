@@ -1,0 +1,24 @@
+{
+ "n": 17,
+ "n_alkane_trees": 24894,
+ "walk_collision_classes": 97,
+ "noncospectral_classes": 0,
+ "classes": [],
+ "runtime_s": 14.4,
+ "protocol": {
+  "design": "two-layer: exact-modular filter, exact-integer verdict",
+  "filter": {
+   "quantity": "walk tuple (W_0,...,W_{n-1})",
+   "arithmetic": "exact 64-bit integer, reduced modulo the two moduli",
+   "moduli": [
+    16777213,
+    16777211
+   ],
+   "note": "Fingerprints can only false-MERGE, never false-SPLIT: equal integers have equal residues modulo any fixed integer, so primality of the moduli is irrelevant to correctness. 16777213 is prime; 16777211 = 11 * 101 * 15101 is not."
+  },
+  "verdict": {
+   "arithmetic": "Python big integers; integral characteristic polynomials by Faddeev-LeVerrier",
+   "note": "Every flagged group is recomputed exactly; the reported classes are formed from those exact values alone. No floating-point eigenvalue enters the pipeline."
+  }
+ }
+}

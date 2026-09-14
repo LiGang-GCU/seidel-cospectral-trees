@@ -1,0 +1,172 @@
+{
+ "8": {
+  "n": 8,
+  "n_trees": 23,
+  "classes": {
+   "WALK": {
+    "n_classes": 23,
+    "collision_classes": 0,
+    "blind_pairs": 0
+   },
+   "ASPEC": {
+    "n_classes": 22,
+    "collision_classes": 1,
+    "blind_pairs": 1
+   },
+   "SSPEC": {
+    "n_classes": 23,
+    "collision_classes": 0,
+    "blind_pairs": 0
+   },
+   "GEN": {
+    "n_classes": 23,
+    "collision_classes": 0,
+    "blind_pairs": 0
+   }
+  },
+  "partition_equality": {
+   "WALK==ASPEC": false,
+   "WALK==SSPEC": true,
+   "WALK==GEN": true,
+   "ASPEC==SSPEC": false,
+   "ASPEC==GEN": false,
+   "SSPEC==GEN": true
+  }
+ },
+ "9": {
+  "n": 9,
+  "n_trees": 47,
+  "classes": {
+   "WALK": {
+    "n_classes": 47,
+    "collision_classes": 0,
+    "blind_pairs": 0
+   },
+   "ASPEC": {
+    "n_classes": 42,
+    "collision_classes": 5,
+    "blind_pairs": 5
+   },
+   "SSPEC": {
+    "n_classes": 47,
+    "collision_classes": 0,
+    "blind_pairs": 0
+   },
+   "GEN": {
+    "n_classes": 47,
+    "collision_classes": 0,
+    "blind_pairs": 0
+   }
+  },
+  "partition_equality": {
+   "WALK==ASPEC": false,
+   "WALK==SSPEC": true,
+   "WALK==GEN": true,
+   "ASPEC==SSPEC": false,
+   "ASPEC==GEN": false,
+   "SSPEC==GEN": true
+  }
+ },
+ "10": {
+  "n": 10,
+  "n_trees": 106,
+  "classes": {
+   "WALK": {
+    "n_classes": 106,
+    "collision_classes": 0,
+    "blind_pairs": 0
+   },
+   "ASPEC": {
+    "n_classes": 102,
+    "collision_classes": 4,
+    "blind_pairs": 4
+   },
+   "SSPEC": {
+    "n_classes": 106,
+    "collision_classes": 0,
+    "blind_pairs": 0
+   },
+   "GEN": {
+    "n_classes": 106,
+    "collision_classes": 0,
+    "blind_pairs": 0
+   }
+  },
+  "partition_equality": {
+   "WALK==ASPEC": false,
+   "WALK==SSPEC": true,
+   "WALK==GEN": true,
+   "ASPEC==SSPEC": false,
+   "ASPEC==GEN": false,
+   "SSPEC==GEN": true
+  }
+ },
+ "11": {
+  "n": 11,
+  "n_trees": 235,
+  "classes": {
+   "WALK": {
+    "n_classes": 235,
+    "collision_classes": 0,
+    "blind_pairs": 0
+   },
+   "ASPEC": {
+    "n_classes": 204,
+    "collision_classes": 29,
+    "blind_pairs": 33
+   },
+   "SSPEC": {
+    "n_classes": 235,
+    "collision_classes": 0,
+    "blind_pairs": 0
+   },
+   "GEN": {
+    "n_classes": 235,
+    "collision_classes": 0,
+    "blind_pairs": 0
+   }
+  },
+  "partition_equality": {
+   "WALK==ASPEC": false,
+   "WALK==SSPEC": true,
+   "WALK==GEN": true,
+   "ASPEC==SSPEC": false,
+   "ASPEC==GEN": false,
+   "SSPEC==GEN": true
+  }
+ },
+ "12": {
+  "n": 12,
+  "n_trees": 551,
+  "classes": {
+   "WALK": {
+    "n_classes": 550,
+    "collision_classes": 1,
+    "blind_pairs": 1
+   },
+   "ASPEC": {
+    "n_classes": 488,
+    "collision_classes": 56,
+    "blind_pairs": 70
+   },
+   "SSPEC": {
+    "n_classes": 550,
+    "collision_classes": 1,
+    "blind_pairs": 1
+   },
+   "GEN": {
+    "n_classes": 550,
+    "collision_classes": 1,
+    "blind_pairs": 1
+   }
+  },
+  "partition_equality": {
+   "WALK==ASPEC": false,
+   "WALK==SSPEC": true,
+   "WALK==GEN": true,
+   "ASPEC==SSPEC": false,
+   "ASPEC==GEN": false,
+   "SSPEC==GEN": true
+  }
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "device": "cuda",
+ "time": "2026-09-08 14:57:42",
+ "datasets": {
+  "Cora": {
+   "error": ""
+  },
+  "CiteSeer": {
+   "error": ""
+  },
+  "Pubmed": {
+   "error": ""
+  },
+  "Texas": {
+   "error": "__init__() got an unexpected keyword argument 'geom_gcn_preprocess'"
+  },
+  "Cornell": {
+   "error": "__init__() got an unexpected keyword argument 'geom_gcn_preprocess'"
+  },
+  "Wisconsin": {
+   "error": "__init__() got an unexpected keyword argument 'geom_gcn_preprocess'"
+  },
+  "Actor": {
+   "mlp": {
+    "mean": 0.3447368606925011,
+    "std": 0.009874998736441197,
+    "runs": 20
+   },
+   "gcn": {
+    "mean": 0.2802302747964859,
+    "std": 0.01166252148146666,
+    "runs": 20
+   },
+   "vn": {
+    "mean": 0.28358553647994994,
+    "std": 0.013461103814184118,
+    "runs": 20
+   },
+   "sei": {
+    "mean": 0.27986843436956405,
+    "std": 0.009913060474577642,
+    "runs": 20
+   }
+  },
+  "chameleon": {
+   "mlp": {
+    "mean": 0.49956139773130415,
+    "std": 0.018447136619215602,
+    "runs": 20
+   },
+   "gcn": {
+    "mean": 0.334868423640728,
+    "std": 0.02010021352636111,
+    "runs": 20
+   },
+   "vn": {
+    "mean": 0.3471491262316704,
+    "std": 0.03449401862960415,
+    "runs": 20
+   },
+   "sei": {
+    "mean": 0.34649122804403304,
+    "std": 0.03295316511445501,
+    "runs": 20
+   }
+  }
+ }
+}
